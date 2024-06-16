@@ -1,4 +1,4 @@
-# CapstoneProject
+# Capstone Project
 This capstone project was done during the final segment of my Advanced Google Data Analytics Cerificate program. 
 # Salifort Motors Data Analysis Project
 
